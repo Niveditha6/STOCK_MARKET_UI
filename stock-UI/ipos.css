@@ -1,0 +1,25 @@
+ul {
+    padding: 0;
+    margin: 0;
+    dislay: table;
+    border-spacing: .3em;
+}
+
+
+li {
+    list-style: none;
+    display: table-row;
+}
+label, button {
+    display: table-cell;
+}
+button {
+    border: 2px outset #aaa;
+    border-radius: 4px;
+}
+ body
+{
+background-color: #fed8b1;}
+h2{
+color:orange ;
+}
